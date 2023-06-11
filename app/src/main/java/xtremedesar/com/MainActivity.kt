@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
 
         val _DB = Firebase.firestore
 
-        var _Moneda = MonedaModel("", "Balboa", "Panama", "BA")
+        var _Moneda = MonedaModel("", "Quetzal", "Guatemala", "QU")
         //var _Moneda = MonedaModel("Cordoba", "Nicaragua", "C$")
         //var _Moneda = MonedaModel("Dolar", "USA", "$")
         //var _Moneda = MonedaModel("Euro", "España", "E")
