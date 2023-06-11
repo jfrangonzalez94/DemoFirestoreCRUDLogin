@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625702184451",
+    "project_id": "demofirestorecrudlogin",
+    "storage_bucket": "demofirestorecrudlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625702184451:android:bc08ea7285f69953efd036",
+        "android_client_info": {
+          "package_name": "xtremedesar.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625702184451-sjqkeif9cme4q0io3phcgepln9b0hog6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ2F6e5zjWn2ie24o1w2_t-7EsouF2-IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625702184451-sjqkeif9cme4q0io3phcgepln9b0hog6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
